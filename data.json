@@ -1,0 +1,348 @@
+{
+  "kind": "calendar#events",
+  "etag": "\"p32sbd5tonn8us0g\"",
+  "summary": "penneymullins@gmail.com",
+  "updated": "2021-02-05T00:24:14.259Z",
+  "timeZone": "America/Phoenix",
+  "accessRole": "owner",
+  "defaultReminders": [],
+  "nextPageToken": "EiUKGjdjYnJmZ2pwZWQyNWdvYWZhbWY3YTViMGRzGICY15GR2u4CIgcIBRCp38IQ",
+  "items": [
+    {
+      "kind": "calendar#event",
+      "etag": "\"3224739496876000\"",
+      "id": "11s4ei713535in651d2i2im2dl_20210205T150000Z",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MTFzNGVpNzEzNTM1aW42NTFkMmkyaW0yZGxfMjAyMTAyMDVUMTUwMDAwWiBwZW5uZXltdWxsaW5zQG0",
+      "created": "2021-02-03T16:27:41.000Z",
+      "updated": "2021-02-03T16:29:08.438Z",
+      "summary": "calls",
+      "creator": {
+        "email": "penneymullins@gmail.com",
+        "self": true
+      },
+      "organizer": {
+        "email": "penneymullins@gmail.com",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2021-02-05T08:00:00-07:00",
+        "timeZone": "America/Phoenix"
+      },
+      "end": {
+        "dateTime": "2021-02-05T10:00:00-07:00",
+        "timeZone": "America/Phoenix"
+      },
+      "recurringEventId": "11s4ei713535in651d2i2im2dl",
+      "originalStartTime": {
+        "dateTime": "2021-02-05T08:00:00-07:00",
+        "timeZone": "America/Phoenix"
+      },
+      "iCalUID": "11s4ei713535in651d2i2im2dl@google.com",
+      "sequence": 1,
+      "reminders": {
+        "useDefault": true
+      },
+      "eventType": "default"
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3223211150604000\"",
+      "id": "1r7hqvub427e639229qtqun4iq",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MXI3aHF2dWI0MjdlNjM5MjI5cXRxdW40aXEgcGVubmV5bXVsbGluc0Bt",
+      "created": "2021-01-25T20:12:55.000Z",
+      "updated": "2021-01-25T20:12:55.302Z",
+      "summary": "Winning offers through finance",
+      "description": "For details, go here:\nhttps://www.eventbrite.com/e/winning-offers-through-finance-tickets-137997092017\n\nTo access the online event page, go here:\nhttps://www.eventbrite.com/x/winning-offers-through-finance-tickets-137997092017",
+      "creator": {
+        "email": "penneymullins@gmail.com",
+        "self": true
+      },
+      "organizer": {
+        "email": "penneymullins@gmail.com",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2021-02-05T10:00:00-07:00"
+      },
+      "end": {
+        "dateTime": "2021-02-05T11:00:00-07:00"
+      },
+      "iCalUID": "1r7hqvub427e639229qtqun4iq@google.com",
+      "sequence": 0,
+      "reminders": {
+        "useDefault": true
+      },
+      "eventType": "default"
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3223211224390000\"",
+      "id": "_6tlnaqrle5p6cpb4dhmj4phpehpm8pjke5l3gp3dehr6arrhe1r3aoj165lmqqrhc5pjeqj8dhhmosbldop36s34c9j7cpbe6ll74cbf75r6e",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=XzZ0bG5hcXJsZTVwNmNwYjRkaG1qNHBocGVocG04cGprZTVsM2dwM2RlaHI2YXJyaGUxcjNhb2oxNjVsbXFxcmhjNXBqZXFqOGRoaG1vc2JsZG9wMzZzMzRjOWo3Y3BiZTZsbDc0Y2JmNzVyNmUgcGVubmV5bXVsbGluc0Bt",
+      "created": "2021-01-25T20:12:17.000Z",
+      "updated": "2021-01-25T20:13:32.195Z",
+      "summary": "Winning offers through finance",
+      "description": "To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar",
+      "creator": {
+        "email": "penneymullins@gmail.com",
+        "self": true
+      },
+      "organizer": {
+        "email": "unknownorganizer@calendar.google.com",
+        "displayName": "Unknown Organizer"
+      },
+      "start": {
+        "dateTime": "2021-02-05T10:00:00-07:00"
+      },
+      "end": {
+        "dateTime": "2021-02-05T11:00:00-07:00"
+      },
+      "iCalUID": "7kukuqrfedlm2f9tsdftqj8dmtveoqpv5ba1kmkqas7jhlclqun23pdbfven5jr1o9vg",
+      "sequence": 0,
+      "attendees": [
+        {
+          "email": "penneymullins@gmail.com",
+          "self": true,
+          "responseStatus": "accepted"
+        }
+      ],
+      "guestsCanInviteOthers": false,
+      "privateCopy": true,
+      "reminders": {
+        "useDefault": true
+      },
+      "eventType": "default"
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3215432145818000\"",
+      "id": "4tf0v3qgql9bu9ke01ohtu9esa_20210206",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NHRmMHYzcWdxbDlidTlrZTAxb2h0dTllc2FfMjAyMTAyMDYgcGVubmV5bXVsbGluc0Bt",
+      "created": "2020-12-11T19:46:38.000Z",
+      "updated": "2020-12-11T19:47:52.909Z",
+      "summary": "check on Blandford Homes - 202 & Recker 480-892-4492",
+      "creator": {
+        "email": "penneymullins@gmail.com",
+        "self": true
+      },
+      "organizer": {
+        "email": "penneymullins@gmail.com",
+        "self": true
+      },
+      "start": {
+        "date": "2021-02-06"
+      },
+      "end": {
+        "date": "2021-02-07"
+      },
+      "recurringEventId": "4tf0v3qgql9bu9ke01ohtu9esa",
+      "originalStartTime": {
+        "date": "2021-02-06"
+      },
+      "transparency": "transparent",
+      "iCalUID": "4tf0v3qgql9bu9ke01ohtu9esa@google.com",
+      "sequence": 1,
+      "reminders": {
+        "useDefault": false
+      },
+      "eventType": "default"
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3224276849514000\"",
+      "id": "em3pb4geosg15serp5d6s98bjg",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=ZW0zcGI0Z2Vvc2cxNXNlcnA1ZDZzOThiamcgcGVubmV5bXVsbGluc0Bt",
+      "created": "2021-02-01T00:13:44.000Z",
+      "updated": "2021-02-01T00:13:44.757Z",
+      "summary": "Dinner neighbors",
+      "creator": {
+        "email": "penneymullins@gmail.com",
+        "self": true
+      },
+      "organizer": {
+        "email": "penneymullins@gmail.com",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2021-02-06T18:00:00-07:00"
+      },
+      "end": {
+        "dateTime": "2021-02-06T20:00:00-07:00"
+      },
+      "iCalUID": "em3pb4geosg15serp5d6s98bjg@google.com",
+      "sequence": 0,
+      "reminders": {
+        "useDefault": true
+      },
+      "eventType": "default"
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3210443267132000\"",
+      "id": "tp21fv82rr14its96kvnm6up17_20210207",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=dHAyMWZ2ODJycjE0aXRzOTZrdm5tNnVwMTdfMjAyMTAyMDcgcGVubmV5bXVsbGluc0Bt",
+      "created": "2020-09-27T21:49:28.000Z",
+      "updated": "2020-11-12T22:53:53.566Z",
+      "summary": "knock - facebook",
+      "creator": {
+        "email": "penneymullins@gmail.com",
+        "self": true
+      },
+      "organizer": {
+        "email": "penneymullins@gmail.com",
+        "self": true
+      },
+      "start": {
+        "date": "2021-02-07"
+      },
+      "end": {
+        "date": "2021-02-08"
+      },
+      "recurringEventId": "tp21fv82rr14its96kvnm6up17",
+      "originalStartTime": {
+        "date": "2021-02-07"
+      },
+      "transparency": "transparent",
+      "iCalUID": "tp21fv82rr14its96kvnm6up17@google.com",
+      "sequence": 2,
+      "reminders": {
+        "useDefault": false
+      },
+      "eventType": "default"
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3222186948772000\"",
+      "id": "78ap4r7m0qibnjvbmg512p1o0v",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NzhhcDRyN20wcWlibmp2Ym1nNTEycDFvMHYgcGVubmV5bXVsbGluc0Bt",
+      "created": "2021-01-19T21:57:54.000Z",
+      "updated": "2021-01-19T21:57:54.386Z",
+      "summary": "Lifestyle Mag starting del thru 2/18",
+      "creator": {
+        "email": "penneymullins@gmail.com",
+        "self": true
+      },
+      "organizer": {
+        "email": "penneymullins@gmail.com",
+        "self": true
+      },
+      "start": {
+        "date": "2021-02-08"
+      },
+      "end": {
+        "date": "2021-02-09"
+      },
+      "transparency": "transparent",
+      "iCalUID": "78ap4r7m0qibnjvbmg512p1o0v@google.com",
+      "sequence": 0,
+      "reminders": {
+        "useDefault": false
+      },
+      "eventType": "default"
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3224739496876000\"",
+      "id": "11s4ei713535in651d2i2im2dl_20210208T150000Z",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MTFzNGVpNzEzNTM1aW42NTFkMmkyaW0yZGxfMjAyMTAyMDhUMTUwMDAwWiBwZW5uZXltdWxsaW5zQG0",
+      "created": "2021-02-03T16:27:41.000Z",
+      "updated": "2021-02-03T16:29:08.438Z",
+      "summary": "calls",
+      "creator": {
+        "email": "penneymullins@gmail.com",
+        "self": true
+      },
+      "organizer": {
+        "email": "penneymullins@gmail.com",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2021-02-08T08:00:00-07:00",
+        "timeZone": "America/Phoenix"
+      },
+      "end": {
+        "dateTime": "2021-02-08T10:00:00-07:00",
+        "timeZone": "America/Phoenix"
+      },
+      "recurringEventId": "11s4ei713535in651d2i2im2dl",
+      "originalStartTime": {
+        "dateTime": "2021-02-08T08:00:00-07:00",
+        "timeZone": "America/Phoenix"
+      },
+      "iCalUID": "11s4ei713535in651d2i2im2dl@google.com",
+      "sequence": 1,
+      "reminders": {
+        "useDefault": true
+      },
+      "eventType": "default"
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3224929674576000\"",
+      "id": "6hu0ljhr3a3ouj0o75ophtgonr",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=Nmh1MGxqaHIzYTNvdWowbzc1b3BodGdvbnIgcGVubmV5bXVsbGluc0Bt",
+      "created": "2021-02-04T18:53:45.000Z",
+      "updated": "2021-02-04T18:53:57.288Z",
+      "summary": "cleaning - siesta ln",
+      "creator": {
+        "email": "penneymullins@gmail.com",
+        "self": true
+      },
+      "organizer": {
+        "email": "penneymullins@gmail.com",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2021-02-08T09:00:00-07:00"
+      },
+      "end": {
+        "dateTime": "2021-02-08T11:00:00-07:00"
+      },
+      "iCalUID": "6hu0ljhr3a3ouj0o75ophtgonr@google.com",
+      "sequence": 1,
+      "reminders": {
+        "useDefault": true
+      },
+      "eventType": "default"
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3224954560586000\"",
+      "id": "7cbrfgjped25goafamf7a5b0ds",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2NicmZnanBlZDI1Z29hZmFtZjdhNWIwZHMgcGVubmV5bXVsbGluc0Bt",
+      "created": "2021-02-04T22:21:20.000Z",
+      "updated": "2021-02-04T22:21:20.293Z",
+      "summary": "walk thru - Treptow",
+      "creator": {
+        "email": "penneymullins@gmail.com",
+        "self": true
+      },
+      "organizer": {
+        "email": "penneymullins@gmail.com",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2021-02-08T11:00:00-07:00"
+      },
+      "end": {
+        "dateTime": "2021-02-08T12:00:00-07:00"
+      },
+      "iCalUID": "7cbrfgjped25goafamf7a5b0ds@google.com",
+      "sequence": 0,
+      "reminders": {
+        "useDefault": true
+      },
+      "eventType": "default"
+    }
+  ]
+}
